@@ -1,5 +1,5 @@
 ### Во прикол емае, qq
-![xue-hua-piao-piao-chinese-man-in-the-snow](https://user-images.githubusercontent.com/50029191/140316477-cfa98b1a-4d9b-44a6-8b31-7f47c52917d9.gif)
+![zxc-new-patch](https://user-images.githubusercontent.com/50029191/140320414-62d0b513-bee1-4db3-8b58-97363a1af120.gif)
 
 <!--
 **GeLLyQw/GellyQw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
