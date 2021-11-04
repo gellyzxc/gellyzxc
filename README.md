@@ -1,4 +1,5 @@
 ### Во прикол емае, qq
+![xue-hua-piao-piao-chinese-man-in-the-snow](https://user-images.githubusercontent.com/50029191/140316477-cfa98b1a-4d9b-44a6-8b31-7f47c52917d9.gif)
 
 <!--
 **GeLLyQw/GellyQw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
