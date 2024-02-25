@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://c.tenor.com/DeJxJK61MnwAAAAC/tenor.gif"  />
+<img align="right" height="150" src="luca.gif"  />
 
 ###
 
