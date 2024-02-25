@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Yura and I'm a PHP-Backend developer, from Perm, Russia</h2>
+<h2 align="left">Hi 👋! My name is Yura and I'm a PHP-backend developer, from Perm, Russia</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://c.tenor.com/DeJxJK61MnwAAAAC/tenor.gif"  />
 
 ###
 
