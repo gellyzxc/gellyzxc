@@ -8,4 +8,5 @@
 
 
 
-<img src="nature.gif" width="100%"/>
+<img src="nature.gif" width="66rem"/>
+
