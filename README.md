@@ -8,5 +8,4 @@
 
 
 
-<img src="nature.gif" width="66rem"/>
-
+<img src="https://github.com/gellyzxc/gellyzxc/raw/main/nature.gif" width="765px"/>
